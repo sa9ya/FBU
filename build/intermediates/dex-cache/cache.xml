@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\.android\build-cache\4e71c7395d548670f232b21a67bfe0b7544acd56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f7632ae4fff0057e4f8a85d029bdb28de562327\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\.android\build-cache\28999d1a94f66e22a520ca490c9dbb18dd138880\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\classes_52993c827703afd12e840112e5450293f62979e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\.android\build-cache\9244dee4d1a1f80e380e2810445d4883e055486b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\classes_2d3a7ade582175b7739519628c1804fd14d05279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\.android\build-cache\c1d4b0defe2a6c8161e918b43e7a1b8352f1fa7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\classes_1a9ace3180290e064ffbb43f9a4de66edf362632.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82096ccff7ce724112cba56e83a2b04d86245e7b">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d377ea92afa421535a5238a2e74d9fa22045f8d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\.android\build-cache\f672cf76e01f0e4027a3c39ae0173cc528444acc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\classes_74dd50c11975cb3e9aecc2b211124fede047fa0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\libs\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\2\retrofit-2.3.0_76763dc0e7a5fbbbe0337bfa9bfaed212fa4f369\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\.android\build-cache\a4acb86a952adc9ad7b5fe0a8a6206626cffea80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\classes_7fac64623992681784a10090a86ced3664a7966f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_18a181894db0d48f29ec1dc7a59c3975641b1edf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_9929a09beb65fd715841b37802941edd34b043e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_875bc6260370724afd850d584843a74b18cbeb88\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\.android\build-cache\1a882c6829b216b74304a6182ec2074f4171184a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\classes_9027a4cb364f84574dd2707bbcc2fb6843d9e74d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_28377855a4794149f4862b90e0264fdd029ab937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_fd5e18ea3bb8dd0a074a1d0d3a309f28ad2eedfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\.android\build-cache\5ee6cd3e8d440286172c433dc5c8b8c2199e47f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\classes_443ef45e48412b35023dc8acc92483459d8b5202.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_02f232fcc8622fb05ed371d3a2d1b2169fd6d0de\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\.android\build-cache\d28010879b2ec01c4bf99809b696c30ddcf50034\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\classes_8ce6185a28665783573839ffff3bbfd16fc134d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_50f806fc9f3f51df9ceef51660c69a95190b0851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sa9ya\.android\build-cache\30ecda6c3f06155c996ba41c29074e41518fad1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\pre-dexed\debug\classes_2634ff734ab91b86b3f9823a1cf0e7b12de83029.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sa9ya\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\sa9ya\AndroidStudioProjects\FBU\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_112eab7726cbb9cdf414fabbcc946623dbf4f31c\classes.dex" />
+    </item>
+
+</items>

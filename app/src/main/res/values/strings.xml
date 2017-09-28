@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FBU</string>
+    <string name="frame_name">Федерація баскетболу України</string>
+    <string name="item_1">Категорії</string>
+    <string name="item_2">Пошук</string>
+    <string name="item_3">Налаштування</string>
+    <string name="main">Главная</string>
+</resources>
